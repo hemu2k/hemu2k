@@ -7,7 +7,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [h
 
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
 
-## Contents 
+## Contents [All_porjects](https://github.com/hemu2k/ALL_ML_hemu/)
 
 - ### Machine Learning
 
